@@ -1,3 +1,3 @@
-#Oi, 
+### Oi, 
 
-- Esse arquivo é o jogo FlappyBird, aprendi com o DevSoutinho!
+- Esse arquivo é o jogo FlappyBird feito em JavaScript, aprendi com o DevSoutinho!
